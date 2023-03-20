@@ -1,3 +1,5 @@
 test AYA 
+<<<<<<< HEAD
 test2 aya
 2
+TEST aya 3
